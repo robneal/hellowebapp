@@ -14,7 +14,9 @@ Static files Link - https://robneal.github.io/hellowebapp
 Digital Ocean VPS Link - 
 
 ### Virtual Environment Installations
-	from directory myhellowebapp $
+	run pip install -r requirements.txt
+
+	or from directory myhellowebapp $
 	
 	- pip install virtualenv
 	- virtualenv venv
