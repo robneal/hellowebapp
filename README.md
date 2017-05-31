@@ -9,6 +9,9 @@ Description: Simple Django Collection of things (blog, products, etc) project
 
 Project Status : In Development
 
-Staic files Link - https://robneal.github.io/hellowebapp
+Static files Link - https://robneal.github.io/hellowebapp
 
-Digital Ocean Link - 
+Digital Ocean VPS Link - 
+
+### Virtual Environment Installations
+	- pip install django-registration-redux==1.3
